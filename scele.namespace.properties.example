@@ -1,0 +1,11 @@
+kafka.log.topic=
+kafka.user.topic=
+kafka.course.topic=
+kafka.sink.topic=
+
+es.course.index=
+es.user.index=
+
+influx.sink.database=
+
+namespace=

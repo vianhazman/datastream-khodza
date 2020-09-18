@@ -1,0 +1,8 @@
+kafka.class.topic=
+kafka.session.topic=
+kafka.absent.topic=
+kafka.sink.topic=
+es.class.index=
+es.session.index=
+
+influx.sink.database=
